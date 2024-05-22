@@ -53,7 +53,7 @@
                     <execution>
                         <phase>validate</phase>
                         <goals>
-                            <goal>copy</goal>
+                            <goal>Coberturara</goal>
                         </goals>
                         <configuration>
                             <outputDirectory>${endorsed.dir}</outputDirectory>
